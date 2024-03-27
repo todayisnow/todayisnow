@@ -83,4 +83,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=todayisnow&show_icons=true&locale=en&layout=compact" alt="todayisnow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=todayisnow&show_icons=true&locale=en" alt="todayisnow" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todayisnow&" alt="todayisnow" /></p>
 
